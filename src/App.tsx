@@ -8,6 +8,7 @@ function App(): JSX.Element {
       <PageHeader />
       <MainContent />
       <PageFooter />
+      <p>This is a random change</p>
     </>
   );
 }
